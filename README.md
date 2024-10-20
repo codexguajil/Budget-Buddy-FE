@@ -1,8 +1,51 @@
-# React + Vite
+# Budge Buddy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Budget and Finance Project
 
-Currently, two official plugins are available:
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
+The Budget and Finance Project is designed to help users become financially responsible by providing tools to track expenses, set budgets, and receive personalized financial advice. This project leverages Google Gemini to offer advanced insights and recommendations based on user data.
+
+## Features
+
+- **Expense Tracking**: Track your daily, weekly, and monthly expenses.
+- **Budget Planning**: Set and manage your budget to stay on track with your financial goals.
+- **Personalized Advice**: Receive tailored financial advice using Google Gemini.
+- **Visual Reports**: View your financial data through intuitive graphs and charts.
+- **Notifications**: Get reminders and alerts for upcoming bills and budget overages.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm (Node Package Manager)
+- Google Gemini API key
+- Vite/React
+- Tailwind
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/budget-and-finance-project.git
+
+2. Run ```npm install```
+
+3. Run ```npm run dev```
+
+
